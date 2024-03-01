@@ -72,6 +72,11 @@ Consider the influence of nearby amenities, such as parks, schools, and shopping
 
 
 # Zone 4: Mylasandra Global Village Zone
+
+
+![Screenshot 2024-03-01 205927](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/ab6c3a70-91f2-4b11-94d3-11d67c17e4b8)
+
+
 Evaluate the restaurant offerings and dining options available in the Mylasandra Global Village area.
 Collect data on local eateries, including their popularity, customer demographics, and online visibility.
 Investigate the dining habits of residents, employees, and visitors in the vicinity of Global Village.
