@@ -64,6 +64,10 @@ Consider factors such as accessibility, parking facilities, and foot traffic aro
 
 
 # Zone 3: Ideal Home Township Zone
+
+![Screenshot 2024-03-01 162844](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/1ac1d6ab-9626-4e2a-8e10-fe8ec8063d02)
+
+
 Examine the restaurant scene within the Ideal Home Township vicinity.
 Compile data on restaurants operating in this area, including their specialties, customer ratings, and online presence.
 Analyze the demographics of residents in Ideal Home Township and their dining behavior.
