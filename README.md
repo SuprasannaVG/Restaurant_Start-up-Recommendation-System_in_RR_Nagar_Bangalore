@@ -48,6 +48,10 @@ Consider factors such as proximity to educational institutions, residential comp
 
 
 # Zone 2: RR Nagar Depo BEML 5th Stage Zone
+
+![Screenshot 2024-03-01 205947](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/069bcf06-b05b-4f76-b0af-3aebdf61ec63)
+
+
 Conduct a thorough analysis of restaurants located near the RR Nagar Depo and BEML 5th Stage area.
 Gather data on nearby eateries, their menu offerings, pricing, and customer feedback.
 Investigate the dining habits and preferences of commuters and residents in this zone.
