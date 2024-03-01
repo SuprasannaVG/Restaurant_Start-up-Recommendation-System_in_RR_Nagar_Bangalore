@@ -40,6 +40,10 @@ Details on data analysis methods (descriptive statistics, clustering, etc.).
 To comprehensively analyze the restaurant landscape in Raja Rajeshwari Nagar (RR Nagar), the area has been segmented into four distinct zones, each offering unique characteristics and opportunities for restaurant startups, this approach allows for a granular examination of the dining preferences, demographic profiles, and market dynamics within each zone. This zoning strategy enables a focused analysis, facilitating targeted recommendations for new restaurant startups to thrive in their respective zones while optimizing their business strategies to align with the local market demands.
 
 #  Zone 1: Channasandra Zone
+
+![Screenshot 2024-03-01 162943](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/b48e6d7d-d366-49bd-a61a-335850875e00)
+
+
 Identify and analyze the restaurant landscape in the Channasandra area.
 Collect data on existing restaurants, including their types, cuisines, ratings, and customer reviews.
 Determine the demographic profile of residents in Channasandra and their dining preferences.
