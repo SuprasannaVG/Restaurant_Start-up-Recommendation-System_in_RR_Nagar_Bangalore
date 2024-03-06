@@ -31,10 +31,14 @@ It predict the Rating of the new Restaurant with attributes
 
 
 If the Predicted rating >= 4.0 , then its a Good Idea.
+
 If the Predicted rating >3.5 and <4.0 ,then its a Average Idea.
+
 If the Predicted rating < 3.5, then its a Bad Idea.
  
-![Screenshot 2024-03-06 135941](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/68f47473-2292-44fe-9b6b-83a43b0694b1)
+![Screenshot 2024-03-06 143209](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/a453f8b6-9c7e-4a07-a96a-9686e19517c2)
+
+![Screenshot 2024-03-06 143312](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/63297c82-8447-49d1-b13c-3b5a6f227c1b)
 
 
 # Dataset Used
