@@ -20,6 +20,21 @@ Skills :  Survey, Web Scrapping, Data analysis, Power BI, Python,Machine-Learnin
 # Introduction
 The restaurant industry is a dynamic and competitive sector, particularly in bustling urban areas like RR Nagar, Bangalore. With the emergence of new dining trends, changing consumer preferences, and evolving market dynamics, startups venturing into the restaurant business face numerous challenges. In such a competitive landscape, it becomes imperative for new restaurant entrepreneurs to make informed decisions and strategically plan their operations to ensure sustainability and profitability. This project aims to address this need by leveraging data-driven insights derived from web scraping of popular platforms such as Zomato, Swiggy, and Google Maps to provide comprehensive recommendations for new restaurant startups in RR Nagar, Bangalore. By harnessing the power of data analytics and machine learning techniques, this project endeavors to offer actionable insights that can help startups optimize their business strategies, enhance customer satisfaction, and improve overall operational efficiency.
 
+# Dataset Used
+Description of the datasets collected from web scraping.
+
+Explanation of the sources (Zomato, Swiggy, Google Maps).
+
+Details on the types of data collected (restaurant details, ratings, reviews, location, etc.).
+
+# Methodology
+Overview of the methodology used for data collection and analysis.
+
+Explanation of web scraping techniques employed.
+
+Description of data preprocessing steps (cleaning, normalization, etc.).
+
+Details on data analysis methods (descriptive statistics, clustering, etc.). 
 
 # Using Machine-Leaning Recommending  whether new start-ups Idea is Good , Average or bad 
 It predict the Rating of the new Restaurant with attributes 
@@ -41,21 +56,7 @@ If the Predicted rating < 3.5, then its a Bad Idea.
 ![Screenshot 2024-03-06 143312](https://github.com/SuprasannaVG/Restaurant_Analysis_in_RR_Nagar_Bangalore/assets/125822020/63297c82-8447-49d1-b13c-3b5a6f227c1b)
 
 
-# Dataset Used
-Description of the datasets collected from web scraping.
 
-Explanation of the sources (Zomato, Swiggy, Google Maps).
-
-Details on the types of data collected (restaurant details, ratings, reviews, location, etc.).
-
-# Methodology
-Overview of the methodology used for data collection and analysis.
-
-Explanation of web scraping techniques employed.
-
-Description of data preprocessing steps (cleaning, normalization, etc.).
-
-Details on data analysis methods (descriptive statistics, clustering, etc.).
 
 # Implementation
 To comprehensively analyze the restaurant landscape in Raja Rajeshwari Nagar (RR Nagar), the area has been segmented into four distinct zones, each offering unique characteristics and opportunities for restaurant startups, this approach allows for a granular examination of the dining preferences, demographic profiles, and market dynamics within each zone. This zoning strategy enables a focused analysis, facilitating targeted recommendations for new restaurant startups to thrive in their respective zones while optimizing their business strategies to align with the local market demands.
