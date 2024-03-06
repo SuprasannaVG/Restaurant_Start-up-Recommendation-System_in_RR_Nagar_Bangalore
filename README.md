@@ -1,4 +1,4 @@
-# Restaurant_Analysis_in_RR_Nagar_Bangalore
+# Restaurant_Analysis_in_RR_Nagar_Bangalore and Making recommendations to the new start ups.
 
 # Skills :  Survey, Web Scrapping, Data analysis, Power BI, Python,Machine-Learning.
 
