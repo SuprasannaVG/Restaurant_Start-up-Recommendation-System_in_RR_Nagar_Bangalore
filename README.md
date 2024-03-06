@@ -28,6 +28,8 @@ It predict the Rating of the new Restaurant with attributes
 3. Dish-liked
 4. Cuisines
 5. Approx cost for Two-People
+
+
 If the Predicted rating >= 4.0 , then its a Good Idea.
 If the Predicted rating >3.5 and <4.0 ,then its a Average Idea.
 If the Predicted rating < 3.5, then its a Bad Idea.
